@@ -26,7 +26,7 @@ jobs:
 
       - name: Build Windows executable with PyInstaller
         run: |
-          pyinstaller --noconsole --onefile app.py
+          pyinstaller --noconsole --onefile main.py
 
       - name: Upload built exe artifact
         uses: actions/upload-artifact@v4
