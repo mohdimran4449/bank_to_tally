@@ -1,0 +1,6 @@
+pandas
+pdfplumber
+PySimpleGUI
+requests
+openpyxl
+xlrd

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+# Virtual environments
+venv/
+.env
+env/
+# Build and distribution
+dist/
+build/
+*.egg
+# PyInstaller
+*.spec
+# macOS
+.DS_Store
+# Pytest
+.pytest_cache/
+# mypy
+.mypy_cache/
+# IDEs
+.vscode/
+.idea/
+# Tally/bank specific
+dist/
+build/
+*.log

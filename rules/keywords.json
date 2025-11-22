@@ -1,0 +1,12 @@
+{
+  "upi": "UPI Ledger",
+  "imps": "IMPS Ledger",
+  "neft": "NEFT Ledger",
+  "amazon": "Amazon",
+  "flipkart": "Flipkart",
+  "swiggy": "Swiggy",
+  "zomato": "Zomato",
+  "atm": "ATM Withdrawal",
+  "charge": "Bank Charges",
+  "salary": "Salary Income"
+}
