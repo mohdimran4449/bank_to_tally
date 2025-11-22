@@ -1,6 +1,8 @@
-pandas
 pdfplumber
-PySimpleGUI
-requests
+pandas
 openpyxl
-xlrd
+pyodbc
+pytesseract
+pillow
+PySimpleGUI
+
